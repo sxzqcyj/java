@@ -13,7 +13,7 @@ public class Run {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("cyj change");
+		System.out.println("cyj change in web");
 	}
 
 }
