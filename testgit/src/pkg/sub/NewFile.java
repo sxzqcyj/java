@@ -13,6 +13,6 @@ public class NewFile {
 	 * 
 	 */
 	public NewFile() {
-		System.out.println("pkg.sub.NewFile");
+		System.out.println("new pkg.sub.NewFile()");
 	}
 }
